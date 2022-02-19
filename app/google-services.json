@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824694782931",
+    "project_id": "g-mart-9d0ac",
+    "storage_bucket": "g-mart-9d0ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824694782931:android:aff40cac988ae7dbc2cd26",
+        "android_client_info": {
+          "package_name": "com.example.g_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824694782931-am1u1isl56dvmp142v3m24jto1a08k16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvAOQkB5G_N0zzXmebnOl0svkkSBA0nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824694782931-am1u1isl56dvmp142v3m24jto1a08k16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
