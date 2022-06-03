@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".mainboard">
+
+    >
 
 
     <androidx.recyclerview.widget.RecyclerView
@@ -17,6 +18,18 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
-        android:layout_marginEnd="-7dp"
+        android:layout_marginEnd="0dp"
         android:text="Logout" />
+
+    <Button
+        android:id="@+id/cart123"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="36dp"
+        android:text="View cart" />
+
+ 
 </RelativeLayout>

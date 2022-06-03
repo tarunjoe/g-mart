@@ -3,9 +3,13 @@ package com.example.g_mart;
 public class ProductsModel {
 
 
-    private String name;
-    private long price;
-    private String img;
+
+
+      private  String name;
+
+      private  long price;
+      private  String img;
+
 
 
 
@@ -15,6 +19,7 @@ public class ProductsModel {
         this.name=name;
         this.price=price;
         this.img=img;
+
 
 
     }
